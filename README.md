@@ -103,8 +103,6 @@
     <img src=".//img/启明星辰.png">
 </p>
 
-282d3a
-
 **启明星辰**
 - **ADLab**
 
@@ -162,8 +160,6 @@
 <p align="center">
     <img src=".//img/知道创宇.png">
 </p>
-
-3e7aa0
 
 **知道创宇**
 - 404实验室
