@@ -91,8 +91,7 @@
 
 **[奇安信](https://www.qianxin.com/threat/threatenterprisenetwork)**
 - **观星实验室**
-
-    主要研究方向包括攻防技术、安全数据分析、渗透测试、威胁发现、应急响应、攻击溯源
+    主要的研究方向包括红队测试、应急响应与攻击溯源（DFIR）以及安全工具研发（ThreatHuting）方向，致力于为企业客户提供全方位专业的安全技术支持。
 
 - **天擎实验室 - Skylar Team**
 
