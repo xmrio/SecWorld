@@ -22,7 +22,7 @@
 **360**
 - **[追日团队 Helios Team](http://zhuiri.360.cn/index-eng.php)**
 
-    从事APT攻击发现与追踪、互联网安全事件应急响应、黑客产业链挖掘和研究等工作。 
+    从事APT攻击发现与追踪、互联网安全事件应急响应、黑客产业链挖掘和研究等工作。
 
 - **[独角兽团队 Unicorn Team](http://unicorn.360.cn/)**
 
@@ -43,7 +43,7 @@
 
 - **[涅槃团队 NirvanTeam](http://nirvan.360.cn)**
 
-    一支专注于苹果系统安全研究和漏洞挖掘的团队 
+    一支专注于苹果系统安全研究和漏洞挖掘的团队
 
 <br><br>
 <p align="center">
@@ -324,10 +324,6 @@
 
 - **[CheckPoint](https://research.checkpoint.com/)(以色列)**
     Check Point软件技术有限公司，成立于1993年，总部位于以色列特拉维夫，全球首屈一指的 Internet 安全解决方案供应商。
-
-
-
-
 
 ---
 
