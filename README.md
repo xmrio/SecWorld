@@ -2,16 +2,23 @@
     <img src=".//img/logo.png">
 </p>
 
-[TOC]
 **注:下列排序默认以数字到英文,名称顺序排列,不分先后高低**
 
 ---
 
 ## Manual
+整理、收集、敬仰安全世界的各类大佬
+
+项目灵感来源: [欲亲临国内外网络战争现场，关注他们就够了](https://mp.weixin.qq.com/s/QaYPI8z4bXLUChuOrNxC-A)
 
 <p align="center">
     <img src=".//img/readme.jpg">
 </p>
+
+**NOTE:**
+- 2019-6-17:本来想着，做个国内的汇总就好了，现在想想，目标太低了。真实five，我为什么不考虑比这大得多的东西？
+
+---
 
 ## 企业团队
 
@@ -199,43 +206,14 @@
 
 ---
 
-## 社会团队/小组
-- **[90sec](https://forum.90sec.com/)**
-
-- **[chaMd5](http://www.chamd5.org)**
-
-- **[红日](http://sec-redclub.com/index.php)**
-
-- **[米斯特](https://www.hi-ourlife.com/)**
-
-- **[破晓团队](http://www.secbug.org/)**
-
-- **[网络尖刀](https://www.1aq.com/index.html)**
-
----
-
-## 渗透测试 & 漏洞研究
-### 公众号
+## 公众号
+### 渗透测试 & 漏洞研究
 
 
+### 电子取证
 
 
-
----
-
-## 电子取证
-### 公众号
-
-
-
-
-
-
-
----
-
-## 威胁情报
-### 公众号
+### 威胁情报
 - **黑鸟**
 
     战略情报以及网络空间安全情报
@@ -251,7 +229,13 @@
         <img src=".//img/qaxwx.png">
     </p>
 
-### 国内博客
+
+
+
+---
+
+## 国内博客
+### 企业类博客
 - **[御见威胁情报中心](https://s.tencent.com/research/report/)**
 
     腾讯御见威胁情报中心，是一个涵盖全球多维数据的情报分析、威胁预警分析平台。依托顶尖安全专家团队支撑，帮助安全分析人员快速、准确对可疑事件进行预警、溯源分析。
@@ -268,7 +252,33 @@
 
     这个著名博客就不多说了，同样会不定期发布网络战争类报告。
 
-### 国外博客
+### 个人/团队博客
+
+- **[90sec](https://forum.90sec.com/)**
+
+- **[chaMd5](http://www.chamd5.org)**
+
+- **[红日](http://sec-redclub.com/index.php)**
+
+- **[米斯特](https://www.hi-ourlife.com/)**
+
+- **[破晓团队](http://www.secbug.org/)**
+
+- **[网络尖刀](https://www.1aq.com/index.html)**
+
+
+
+
+
+
+
+
+
+
+
+## 国外博客
+### 企业类博客
+
 - **[卡巴斯基](https://securelist.com/)(俄罗斯)**
 
     全球研究与分析团队 (GReAT) 成立于 2008 年，是卡巴斯基实验室的核心运营团队，该团队发现了全球的 APT、网络间谍活动、主要恶意软件、勒索软件和地下网络罪犯发展趋势。如今 GReAT 由全球 40 多名专家组成，分布在俄罗斯、欧洲、美洲、亚洲和中东。
@@ -324,11 +334,6 @@
 
 - **[CheckPoint](https://research.checkpoint.com/)(以色列)**
     Check Point软件技术有限公司，成立于1993年，总部位于以色列特拉维夫，全球首屈一指的 Internet 安全解决方案供应商。
-
----
-
-## Reference
-- [欲亲临国内外网络战争现场，关注他们就够了](https://mp.weixin.qq.com/s/QaYPI8z4bXLUChuOrNxC-A)
 
 ---
 
