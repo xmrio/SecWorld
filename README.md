@@ -6,14 +6,14 @@
 
 ---
 
+<img src=".//img/readme.jpg" alt="logo" width="140" height="140" align="right">
+
 ## Manual
+
 整理、收集、敬仰安全世界的各类大佬
 
 项目灵感来源: [欲亲临国内外网络战争现场，关注他们就够了](https://mp.weixin.qq.com/s/QaYPI8z4bXLUChuOrNxC-A)
 
-<p align="center">
-    <img src=".//img/readme.jpg">
-</p>
 
 **NOTE:**
 - 2019-6-17:本来想着，做个国内的汇总就好了，现在想想，目标太低了。真实five，我为什么不考虑比这大得多的东西？
